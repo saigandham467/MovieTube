@@ -1,5 +1,5 @@
-# movieflix-seed
-seed for the Full-Stack training project: movieflix
+# Movie-Tube
+will add the description as I complete Project implementation
 
 ## directory structure:
 
